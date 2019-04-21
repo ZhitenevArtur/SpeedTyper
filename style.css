@@ -10,3 +10,13 @@ body{
 	margin: 0 auto;
 	width: 50vw;
 }
+
+.active{
+	background-color: #333333;
+	color: #fff;
+}
+
+.mistake{
+	background-color: #B70B0B;
+	color: #fff;
+}
